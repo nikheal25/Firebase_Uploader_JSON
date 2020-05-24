@@ -1,6 +1,6 @@
 const admin = require("./node_modules/firebase-admin");
 const serviceAccount = require("./serviceAccountKey.json");
-const data = require("./newDisease/updated_diseases.json");
+const data = require("./newDisease/disease_symptoms_final");
 const collectionKey = "DiseaseIterationTwo"; //name of the collection
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
