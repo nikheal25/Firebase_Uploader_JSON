@@ -1,5 +1,10 @@
 "# Firebase_Uploader_JSON"
 
-On terminal type->
-cd ..
-node new
+**Installation**
+Open the terminal on your computer and terminal type->
+_npm install_
+that will intall the packages on local machine
+
+**RUN code**
+_cd ..
+node_ ***FOLDER_NAME***
